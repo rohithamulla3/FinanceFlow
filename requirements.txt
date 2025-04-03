@@ -1,0 +1,5 @@
+apache-airflow
+boto3
+pandas
+snowflake-connector-python
+great_expectations
